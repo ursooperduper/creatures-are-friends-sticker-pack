@@ -1,4 +1,150 @@
 {
+  "stickers" : [
+    {
+      "filename" : "shefab.sticker"
+    },
+    {
+      "filename" : "creatah.sticker"
+    },
+    {
+      "filename" : "cuppa.sticker"
+    },
+    {
+      "filename" : "edge.sticker"
+    },
+    {
+      "filename" : "platter.sticker"
+    },
+    {
+      "filename" : "deep.sticker"
+    },
+    {
+      "filename" : "hip.sticker"
+    },
+    {
+      "filename" : "magnum.sticker"
+    },
+    {
+      "filename" : "slice.sticker"
+    },
+    {
+      "filename" : "flip.sticker"
+    },
+    {
+      "filename" : "hero.sticker"
+    },
+    {
+      "filename" : "bloood.sticker"
+    },
+    {
+      "filename" : "plunge.sticker"
+    },
+    {
+      "filename" : "pand.sticker"
+    },
+    {
+      "filename" : "sprocket.sticker"
+    },
+    {
+      "filename" : "earthboy.sticker"
+    },
+    {
+      "filename" : "edmond & the professor.sticker"
+    },
+    {
+      "filename" : "bash.sticker"
+    },
+    {
+      "filename" : "brenda.sticker"
+    },
+    {
+      "filename" : "harvey & pearl.sticker"
+    },
+    {
+      "filename" : "joe.sticker"
+    },
+    {
+      "filename" : "legs.sticker"
+    },
+    {
+      "filename" : "octo.sticker"
+    },
+    {
+      "filename" : "scoot.sticker"
+    },
+    {
+      "filename" : "the trio.sticker"
+    },
+    {
+      "filename" : "kitteh.sticker"
+    },
+    {
+      "filename" : "loverboy.sticker"
+    },
+    {
+      "filename" : "dawg.sticker"
+    },
+    {
+      "filename" : "olaf.sticker"
+    },
+    {
+      "filename" : "pogo.sticker"
+    },
+    {
+      "filename" : "boombah.sticker"
+    },
+    {
+      "filename" : "pilla.sticker"
+    },
+    {
+      "filename" : "eau.sticker"
+    },
+    {
+      "filename" : "marmitee.sticker"
+    },
+    {
+      "filename" : "bottler.sticker"
+    },
+    {
+      "filename" : "chair.sticker"
+    },
+    {
+      "filename" : "ruler.sticker"
+    },
+    {
+      "filename" : "bug.sticker"
+    },
+    {
+      "filename" : "fighterboy.sticker"
+    },
+    {
+      "filename" : "twofer.sticker"
+    },
+    {
+      "filename" : "squid.sticker"
+    },
+    {
+      "filename" : "ocho.sticker"
+    },
+    {
+      "filename" : "liva.sticker"
+    },
+    {
+      "filename" : "jeff.sticker"
+    },
+    {
+      "filename" : "cthulu.sticker"
+    },
+    {
+      "filename" : "thanks.sticker"
+    },
+    {
+      "filename" : "chug.sticker"
+    },
+    {
+      "filename" : "baked.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
